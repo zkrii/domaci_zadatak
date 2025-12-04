@@ -51,7 +51,7 @@ Console.WriteLine("Висина троугла износи: " + h);
 Висина троугла износи: 1.732
 
 
-C:\Users\vzkrii\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe (process 13320) exited with code 0 (0x0).
+C:\Users\zkrii\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe (process 13320) exited with code 0 (0x0).
 Press any key to close this window . . .
 ```
 
